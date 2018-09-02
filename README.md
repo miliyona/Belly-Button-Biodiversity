@@ -45,7 +45,7 @@ Use Plotly.js to build interactive charts for your dashboard.
 
 ## Step 2 - Heroku
 
-Deploy your Flask app to Heroku.
+Deploy your Flask app to python anywhere.
 
 * You can use the provided sqlite file for the database.
 
